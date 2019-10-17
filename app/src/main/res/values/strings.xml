@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentsTutorial</string>
+    <string name="action_settings">Settings</string>
+</resources>
